@@ -1,13 +1,11 @@
-Temp files for APUS MS Applied Business Analytics
+# APUS MS Applied Business Analytics
 
-# 2024
-
-##  Summer 01
+###  Summer 2024 01
 
     BUSN604
     BUSN660
 
-## Summer 02
+### Summer 2024 02
 
     ACCT608
     BUSN661
