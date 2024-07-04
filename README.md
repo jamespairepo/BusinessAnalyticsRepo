@@ -9,4 +9,4 @@
 
     ACCT608
     BUSN661
-    ECON600
+    ECON600 
