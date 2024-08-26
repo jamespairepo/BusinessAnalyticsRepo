@@ -1,12 +1,16 @@
 # APUS MS Applied Business Analytics
 
-###  Summer 2024 01
+### Fall 2024
 
-    BUSN604
-    BUSN660
+    BUSN662
+    FINC600
 
 ### Summer 2024 02
 
-    ACCT608
     BUSN661
-    ECON600 
+    ECON600
+
+### Summer 2024 01
+
+    BUSN604
+    BUSN660
